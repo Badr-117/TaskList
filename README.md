@@ -21,5 +21,4 @@ This is an app that allows the user to note daily tasks. Users can create, edit,
 
 ## Demo
 
-
-![2019_05_29_02_59_33](https://user-images.githubusercontent.com/44711173/58537666-523e5a00-81c1-11e9-9b1b-9f4c1d772add.gif)
+<img src="https://user-images.githubusercontent.com/44711173/58537666-523e5a00-81c1-11e9-9b1b-9f4c1d772add.gif" width="230" />
