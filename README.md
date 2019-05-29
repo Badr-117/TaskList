@@ -19,5 +19,5 @@ This is an app that allows the user to note daily tasks. Users can create, edit,
 - LoaderManger and LoderCallbacks
 - ListView
 
-##Demo
+## Demo
 ![](https://gfycat.com/BlaringRelievedAdamsstaghornedbeetle.gif)
