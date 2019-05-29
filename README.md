@@ -20,4 +20,5 @@ This is an app that allows the user to note daily tasks. Users can create, edit,
 - ListView
 
 ## Demo
-![](https://gfycat.com/BlaringRelievedAdamsstaghornedbeetle.gif)
+
+<img src="https://gfycat.com/BlaringRelievedAdamsstaghornedbeetle" />
